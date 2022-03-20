@@ -1,0 +1,60 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EFFFFD ;
+  }  
+  .nav-link{
+    font-size: 2rem;
+  }
+  
+  .n-background{
+    background-color: #9dab86;
+  }
+  
+  .s-background{
+    background-color: #9dab86;
+  }
+  .s-background:hover{
+    background-color: #9dab96;
+  
+  }
+  
+  .t-background{
+  
+    background-image: url(../images/31_background.jpg);
+    background-size:cover;
+    background-position: center;
+  }
+  
+  .j-background{
+    background-color: #eafbea;
+  }
+  
+  .h1-top{
+    font-family: 'Lobster', cursive;
+    font-size: 72px;
+    font-weight: bold;
+  }
+  
+  .b-color{
+    background-color: #55ae95;
+  }
+  
+  .x-color{
+    color: #9dab86;
+  }
+    
+  /*Gallery Page Code */
+  
+  .gallery-title-background{
+    /* background-color: #cccccc; */
+    background-color: #42C2FF;
+  }
+
+  .h1-bottom{
+    background-color:#85F4FF ;
+  }
+
+  .h-line{
+      border: 4px dashed;
+  }
